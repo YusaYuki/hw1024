@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\c_hw_1024\\3.17\\c_hw_1024_3_17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F82F15-5A66-4164-BA96-42CDD64409B9}|c_hw_1024_3_17\\c_hw_1024_3_17.vcxproj|C:\\Users\\danie\\Desktop\\c_hw_1024\\3.17\\c_hw_1024_3_17\\c_hw_1024_3_17\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94F82F15-5A66-4164-BA96-42CDD64409B9}|c_hw_1024_3_17\\c_hw_1024_3_17.vcxproj|solutionrelative:c_hw_1024_3_17\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\c_hw_1024\\3.17\\c_hw_1024_3_17\\c_hw_1024_3_17\\main.cpp",
+              "RelativeDocumentMoniker": "c_hw_1024_3_17\\main.cpp",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\c_hw_1024\\3.17\\c_hw_1024_3_17\\c_hw_1024_3_17\\main.cpp",
+              "RelativeToolTip": "c_hw_1024_3_17\\main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T08:01:46.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\danie\Desktop\c_hw_1024\3.18\c_hw_1024_3_18\c_hw_1024_3_18\main.cpp(7,11): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\danie\Desktop\c_hw_1024\3.18\c_hw_1024_3_18\c_hw_1024_3_18\main.cpp(9,7): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'float'
+C:\Users\danie\Desktop\c_hw_1024\3.18\c_hw_1024_3_18\c_hw_1024_3_18\main.cpp(16,18): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  c_hw_1024_3_18.vcxproj -> C:\Users\danie\Desktop\c_hw_1024\3.18\c_hw_1024_3_18\x64\Debug\c_hw_1024_3_18.exe
